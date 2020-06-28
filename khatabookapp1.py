@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter.messagebox import showinfo
 import datetime
-
+#this is a simple khatabookapp which help in different section for shopkeeper
 root = Tk()
 root.minsize(500, 500)
 root.maxsize(600, 500)
